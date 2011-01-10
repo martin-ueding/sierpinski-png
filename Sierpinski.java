@@ -1,5 +1,3 @@
-package de.martin_ueding.mathematik.sierpinski;
-
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.awt.Graphics2D;
