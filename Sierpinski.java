@@ -1,3 +1,5 @@
+// Copyright (c) Martin Ueding <dev@martin-ueding.de>
+
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.awt.Graphics2D;
