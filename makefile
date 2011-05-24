@@ -5,3 +5,6 @@ sierpinski2png.jar: Sierpinski.class
 
 Sierpinski.class: *.java
 	javac Sierpinski.java
+
+clean:
+	$(RM) *.class *.jar
