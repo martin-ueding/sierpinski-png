@@ -29,7 +29,7 @@ public class Sierpinski {
 		for (stufe = 0; stufe < lastStufe; stufe++) {	// Solange wir noch tiefer sollen:
 			System.out.println("Stufe " + (stufe +1));
 			
-			neuBreite = (int) Math.pow(2, stufe) * fak;	// Neue Größe ist hier doppelt so groß
+			neuBreite = (int) Math.pow(2, stufe) * fak;	// Neue GrÃ¶ÃŸe ist hier doppelt so groÃŸ
 			
 			neu = new boolean[neuBreite][neuBreite];	// Ein neues Feld
 			
